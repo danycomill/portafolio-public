@@ -316,8 +316,8 @@ footer .box-footer .boxed div ul a:hover{
 
     main .container-more .nav-section button{
         margin: 1rem;
-        width: 11rem;
-        font: 1rem;
+        width: 20rem;
+        font-size: 10px;
         height: 2.6rem;
     }
 
@@ -341,6 +341,15 @@ footer .box-footer .boxed div ul a:hover{
         justify-content: center;
     }
 
+    .section-sobre-mi .content-card-sobre .card-sobre-mi{
+        margin: 1rem;
+    }
+
+
+    .section-sobre-mi .content-card-sobre .card-sobre-mi p{
+        font-size: 1.2rem;
+    }
+
 
 
     footer .box-footer .mas-info a{
@@ -348,4 +357,6 @@ footer .box-footer .boxed div ul a:hover{
         flex-direction: column;
         /* margin-bottom: 3rem; */
     }
+
+
 }
